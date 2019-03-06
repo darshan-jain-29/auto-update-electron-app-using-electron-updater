@@ -1,4 +1,4 @@
-Please follow the steps to achieve the electron js auto-update code working.
+Please follow the steps to achieve the electron js auto-update code working..
 
 1. `npm install electron-updater` (For using auto-updater)
 2. `npm install electron-log` (This will help to see the errors in logs)

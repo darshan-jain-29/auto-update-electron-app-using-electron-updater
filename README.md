@@ -5,7 +5,7 @@ Please follow the steps to achieve the electron js auto-update code working.
 3. `npm install electron --save-dev`
 4. `npm install electron-builder --save-dev`
 
-Then, in your main.js (the entry file of your application paste auto update code at as mentioned)
+Then, in your main.js (the entry file of your application) paste auto update code at as mentioned
 
     const electron = require('electron');
     const url = require('url');
